@@ -207,4 +207,3 @@ if __name__ == '__main__':
         name = i.strip('\n')
         x = Lagou(positionname=name)
         x.run()
-
